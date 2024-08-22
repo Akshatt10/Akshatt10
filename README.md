@@ -7,13 +7,16 @@
 
 ## 🛠️ Tech Stack:
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![AI/ML](https://img.shields.io/badge/-AI%2FML-black?style=for-the-badge&logo=tensorflow)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![AI/ML](https://img.shields.io/badge/-AI/ML-black?style=for-the-badge&logo=machine-learning)
+![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B)
-![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
-![HTML](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=netlify)
 
