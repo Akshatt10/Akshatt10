@@ -1,5 +1,5 @@
 # Hi 👋, I'm Akshat Tyagi
-### Full Stack Developer | Data Analyst ethusiast
+### Full Stack Developer | Data Analyst
 
 - 🔭 I'm currently a 4th year B-tech CSE student.
 - 🌱 Currently working on my development skills with various projects.
