@@ -1,8 +1,8 @@
 # Hi 👋, I'm Akshat Tyagi
 ### Full Stack Developer | Data Analyst
 
-![Profile Views](https://komarev.com/ghpvc/?username=Akshatt10&color=blue&style=flat)
-
+![Profile Views](https://api.countapi.xyz/update?namespace=Akshatt10&key=profile-views&amount=1)
+![Profile Views Badge](https://img.shields.io/badge/Profile%20Views-0-blue)
 
 
 - 🔭 I'm currently a 4th year B-tech CSE student.
