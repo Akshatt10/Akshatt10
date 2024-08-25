@@ -3,7 +3,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Akshatt10&color=blue&style=flat)
 
-https://api.countapi.xyz/create?namespace=Akshatt10&key=profile-views&value=0
 
 
 - 🔭 I'm currently a 4th year B-tech CSE student.
