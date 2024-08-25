@@ -1,6 +1,8 @@
 # Hi 👋, I'm Akshat Tyagi
 ### Full Stack Developer | Data Analyst
 
+![Profile Views](https://komarev.com/ghpvc/?username=Akshatt10&color=blue&style=flat)
+
 - 🔭 I'm currently a 4th year B-tech CSE student.
 - 🌱 Currently working on my development skills with various projects.
 - 👯 I'm looking for Data analyst or SDE roles as an intern.
@@ -20,14 +22,11 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=netlify)
 
-
 ## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshatt10&show_icons=true&theme=dark)
 
 ## 💻 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatt10&layout=compact&theme=dark&hide=jupyter%20notebook)
-
-
 
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Akshatt10&theme=onedark)
