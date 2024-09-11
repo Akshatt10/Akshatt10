@@ -1,11 +1,9 @@
 # Hi 👋, I'm Akshat Tyagi
-### Full Stack Developer | Data Analyst
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akshatt10&label=Profile%20views&color=0e75b6&style=flat" alt="Akshatt10" /> </p>
+### Aspiring Software Developer
 
 
 - 🔭 I'm currently a 4th year B-tech CSE student.
-- 🌱 Currently working on my development skills with various projects.
+- 🌱 Currently working on different projects as well as DSA.
 - 👯 I'm looking for Data analyst or SDE roles as an intern.
 
 ## 🛠️ Tech Stack:
