@@ -2,9 +2,9 @@
 ### Aspiring Software Developer
 
 
-- 🔭 I'm currently a 4th year B-tech CSE student.
-- 🌱 Currently working on different projects as well as DSA.
-- 👯 I'm looking for Data analyst or SDE roles as an intern.
+- 🔭 SDE Intern at AFI DIgital Services
+- 🌱 I'm currently a 4th year B-tech CSE student.
+- 👯 Building scalable solutions.
 
 ## 🛠️ Tech Stack:
 
