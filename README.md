@@ -27,8 +27,7 @@
 ## 💻 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatt10&layout=compact&theme=dark)
 
-## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Akshatt10&theme=onedark)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshatt10&" alt="Akshatt10" /></p>
 
 ## 🔗 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/YourUsername/](https://www.linkedin.com/in/akshat-tyagi-305a50223/))
