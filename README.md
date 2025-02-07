@@ -25,7 +25,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshatt10&show_icons=true&theme=dark)
 
 ## 💻 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatt10&layout=compact&theme=dark&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatt10&layout=compact&theme=dark)
 
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Akshatt10&theme=onedark)
