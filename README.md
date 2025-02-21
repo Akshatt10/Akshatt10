@@ -1,9 +1,11 @@
 # Hi 👋, I'm Akshat Tyagi
-### Aspiring Software Developer
+### Software Developer
 
-- 🔭 SDE Intern at AFI Digital Services  
+
+- 🔭 I CODE !!
+- ➡️ Polishing Full stack dev and learning Devops.
 - 🌱 I'm currently a 4th-year B.Tech CSE student.  
-- 👯 Building scalable solutions.
+- 👯 AI and Data Science enthusiast.
 
 ## 🛠️ Tech Stack:
 
