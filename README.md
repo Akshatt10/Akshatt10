@@ -3,7 +3,7 @@
 
 
 - 🔭 I CODE !!
-- ➡️ Polishing Full stack dev and learning Devops.
+- ➡️ Polishing Full stack dev, learning Devops and WEB3 enthusiast.
 - 🌱 I'm currently a 4th-year B.Tech CSE student.  
 - 👯 AI and Data Science enthusiast.
 
