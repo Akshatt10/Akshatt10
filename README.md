@@ -18,7 +18,9 @@
 ![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp)
 ![.NET](https://img.shields.io/badge/-.NET-black?style=for-the-badge&logo=dotnet)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
 ![Azure](https://img.shields.io/badge/-Azure-black?style=for-the-badge&logo=microsoft-azure)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
@@ -30,6 +32,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=pytorch)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=netlify)
+
 
 ## 💊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshatt10&show_icons=true&theme=dark)
