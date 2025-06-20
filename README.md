@@ -14,8 +14,10 @@
 ### 🔥 About Me
 
 - 🔭 I CODE !!
-- ➡️ Polishing Full stack dev, learning Docker → WEB3 enthusiast.
-- 🌱 I'm currently a 4th-year B.Tech CSE student.
+- ➡️ Polishing Full stack dev, learning Go and WEB3
+- 🤖 Deeply fascinated by Agentic AI — building and exploring autonomous, decision-making systems.
+- 💻 Actively learning how to design intelligent agents that plan, reason, and adapt.
+- 🌱 Working on System Designs of large complex applications.
 - 👯 AI and Data Science enthusiast.
 
 ---
