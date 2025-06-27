@@ -64,7 +64,6 @@
 ## 💻 Most Used Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatt10&layout=compact&theme=dark&hide=jupyter%20notebook,Python)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatt10&layout=pie&hide=jupyter%20notebook,Python)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
